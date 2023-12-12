@@ -1,1 +1,1 @@
-# youtube-scheduler-hub-
+# YouTube Scheduler Hub
