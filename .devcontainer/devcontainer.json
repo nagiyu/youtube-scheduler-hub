@@ -1,0 +1,7 @@
+{
+  "name": "youtube-scheduler-hub",
+  "dockerComposeFile": "../build/docker-compose.yml",
+  "remoteUser": "", // Set Current User (e.g. whoami -> 'username')
+  "service": "server",
+  "workspaceFolder": "/app"
+}
