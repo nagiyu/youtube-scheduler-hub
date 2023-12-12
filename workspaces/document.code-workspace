@@ -1,0 +1,19 @@
+{
+  "folders": [
+    {
+      "path": "../"
+    }
+  ],
+  "extensions": {
+    "recommendations": [
+      "donjayamanne.githistory",
+      "github.copilot",
+      "github.copilot-chat",
+      "eamodio.gitlens",
+      "oderwat.indent-rainbow",
+      "ms-azuretools.vscode-docker",
+      "hediet.vscode-drawio",
+      "github.vscode-pull-request-github"
+    ]
+  }
+}
