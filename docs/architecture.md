@@ -31,10 +31,6 @@ youtube-scheduler-hub
 |   |   |
 |   |   +-- Dockerfile
 |   |
-|   +-- client
-|   |   |
-|   |   +-- Dockerfile
-|   |
 |   +-- .env
 |   |
 |   +-- docker-compose.yml
